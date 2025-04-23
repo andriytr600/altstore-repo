@@ -4,7 +4,7 @@
   "developerName": "UTM Team (Rebuilt)",
   "subtitle": "UTM, пересобранный под AltStore",
   "version": "4.6.5",
-  "downloadURL": "https://andriytr600.github.io/altstore-repo/apps/UTM-Rebuilt-AltStore.ipa",
+  "downloadURL": "https://github.com/andriytr600/altstore-repo/releases/download/Firstreleaee/UTM-Rebuilt-AltStore.ipa",
   "iconURL": "https://andriytr600.github.io/altstore-repo/icons/utm-icon.png",
   "localizedDescription": "Пересобранная версия UTM для корректной установки через AltStore. Поддерживает JIT и Hypervisor (если включено).",
   "tintColor": "003366"
