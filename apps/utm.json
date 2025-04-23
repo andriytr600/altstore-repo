@@ -1,0 +1,11 @@
+{
+  "name": "UTM HV",
+  "bundleIdentifier": "com.utmapp.UTM",
+  "developerName": "UTM Team",
+  "subtitle": "UTM с Hypervisor для iPad M1/M2",
+  "version": "4.3",
+  "downloadURL": "https://github.com/andriytr600/altstore-repo/releases/download/Firstreleaee/UTM-HV.ipa",
+  "iconURL": "https://andriytr600.github.io/altstore-repo/icons/utm-icon.png",
+  "localizedDescription": "Полноценная виртуализация на iOS с поддержкой JIT и Hypervisor, оптимизирована для iPad с M1/M2.",
+  "tintColor": "003366"
+}
