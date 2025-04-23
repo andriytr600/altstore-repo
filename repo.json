@@ -2,7 +2,6 @@
   "name": "Andriy's IPA Repo",
   "identifier": "com.andriytr.iparepo",
   "apps": [
-    "apps/myapp1.json",
-    "apps/myapp2.json"
+    "apps/utm.json"
   ]
 }
