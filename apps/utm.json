@@ -1,6 +1,6 @@
 {
   "name": "UTM HV",
-  "bundleIdentifier": "com.utmapp.UTM",
+  "bundleIdentifier": "zipfoundation.ZIPFoundation.resources",
   "developerName": "UTM Team",
   "subtitle": "UTM с Hypervisor для iPad M1/M2",
   "version": "4.3",
